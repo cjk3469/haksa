@@ -8,14 +8,6 @@
 
 </div>
 
-## Team. 파프리카 (Final Porject R? K?) 🎲
-
-
-
-|<img width=200 src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif"/>|<img src="https://media.giphy.com/media/2uxqZNcoAxujRtJ0ET/giphy.gif" height=110/>|<img src="https://media.giphy.com/media/905GG7MjDw61q/giphy.gif" width=200/>|<img src="https://media.giphy.com/media/ZErseTwcpamCiDlaHK/giphy.gif" width=110/>|<img src="https://media.giphy.com/media/2IGcITcJg09VK/giphy.gif" width=200px/>|<img src="https://media.giphy.com/media/UCprsZ3qxwzPa/giphy.gif" width=240/>|<img src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" width=200/>|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|PM 유성열|PL 오세현|PL 노상문|CREW 장해리|CREW 최진규|CREW 강찬영|CREW 박정호|
-| [@guendu](https://github.com/geundu) | [@RNCST](https://github.com/RNCST) | [@RohSMoon](https://github.com/RohSMoon)  | [@haeri1127](https://github.com/haeri1127)  | [@cjk3469](https://github.com/cjk3469) | [@kangchanyoung](https://github.com/KANGCHANYOUNG) | [@kappleword](https://github.com/kappleword)
 
 
 
